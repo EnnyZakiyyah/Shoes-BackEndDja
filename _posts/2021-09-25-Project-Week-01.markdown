@@ -5,4 +5,5 @@ date:   2021-09-25 16:09:00 +0700
 categories: jekyll update
 ---
 
-hello there
+|    Date     |         Activitiy           | Repositry  |      Blocker          |
+| 25-09-2021  | rest api login dan register |            | setup django di linux |
