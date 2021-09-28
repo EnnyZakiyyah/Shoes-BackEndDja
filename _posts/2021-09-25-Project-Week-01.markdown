@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 |    Date     |         Activitiy           | Repositry  |      Blocker          | Solve |
-| 25-09-2021  | rest api login dan register | https://github.com/EnnyZakiyyah/Project-Week-01      | setup django di linux | cari diberbagai tutorial |
+| 25-09-2021  | rest api login dan register | https://github.com/EnnyZakiyyah/ Project-Week-01      | setup django di linux | cari diberbagai tutorial |
