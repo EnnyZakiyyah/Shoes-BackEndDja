@@ -1,0 +1,53 @@
+I"„<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td>Activitiy</td>
+      <td>Repositry</td>
+      <td>Blocker</td>
+      <td>Solve</td>
+      <td>Link</td>
+    </tr>
+    <tr>
+      <td>25-09-2021</td>
+      <td>rest api login dan register</td>
+      <td>https://github.com/EnnyZakiyyah/ Project-Week-01</td>
+      <td>setup django di linux</td>
+      <td>cari diberbagai tutorial</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>28-09-2021</td>
+      <td>rest api login dan register jwt</td>
+      <td>-</td>
+      <td>connect mysql masih error, belum nemu refrensi</td>
+      <td>belum selesai</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>setup github di linux</td>
+      <td>-</td>
+      <td>sempet error, tidak bisa ngepush project ke github</td>
+      <td>set new token</td>
+      <td>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>setup mysql</td>
+      <td>-</td>
+      <td>tidak bisa connect database mysql</td>
+      <td>cari diberbagai tutorial belum ketemu, dan disarankan install postgrest</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>install postgrest</td>
+      <td>-</td>
+      <td>-</td>
+      <td>https://www.postgresql.org/download/linux/ubuntu/</td>
+      <td>Â </td>
+    </tr>
+  </tbody>
+</table>
+:ET
