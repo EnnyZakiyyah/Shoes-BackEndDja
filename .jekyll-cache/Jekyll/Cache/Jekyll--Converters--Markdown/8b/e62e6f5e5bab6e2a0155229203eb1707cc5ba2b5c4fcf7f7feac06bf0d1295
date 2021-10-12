@@ -1,4 +1,4 @@
-I"�<table>
+I",<table>
   <tbody>
     <tr>
       <td>Date</td>
@@ -47,6 +47,22 @@
       <td>-</td>
       <td>-</td>
       <td>https://www.postgresql.org/download/linux/ubuntu/</td>
+    </tr>
+    <tr>
+      <td>04-10-2021</td>
+      <td>install pgadmin4</td>
+      <td>-</td>
+      <td>Error tidak bisa install pgadmin4</td>
+      <td>dengan hapus repository pgadmin dan postgrest, reinstall postgrest dan benahi error</td>
+      <td>(1)https://askubuntu.com/questions/741410/skipping-acquire-of-configured-file-main-binary-i386-packages-as-repository-x (2)https://askubuntu.com/questions/1230350/cant-install-pgadmin-4-on-20-04-lts (3)https://www.youtube.com/watch?v=ET2fXRExxco</td>
+    </tr>
+    <tr>
+      <td>05-10-2021</td>
+      <td>setup db</td>
+      <td>-</td>
+      <td>Error tidak bisa connect dengan pgadmin4</td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>
