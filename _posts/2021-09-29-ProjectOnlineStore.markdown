@@ -13,3 +13,6 @@ categories: jekyll update
 | 29-09-2021  |install postgrest|-|- |-|https://www.postgresql.org/download/linux/ubuntu/
 | 04-10-2021  |install pgadmin4|-|Error tidak bisa install pgadmin4|dengan hapus repository pgadmin dan postgrest, reinstall postgrest dan benahi error|(1)https://askubuntu.com/questions/741410/skipping-acquire-of-configured-file-main-binary-i386-packages-as-repository-x (2)https://askubuntu.com/questions/1230350/cant-install-pgadmin-4-on-20-04-lts (3)https://www.youtube.com/watch?v=ET2fXRExxco
 | 05-10-2021  |setup db|-|Error tidak bisa connect dengan pgadmin4|
+| 07-10-2021  |setup db|-|typo codingan dan setup url|-|
+| 08-10-2021  |buat login dan register|-|-|
+| 09-10-2021  |buat login dan register dengan jwt|-|error|
