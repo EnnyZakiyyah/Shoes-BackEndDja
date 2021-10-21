@@ -16,3 +16,4 @@ categories: jekyll update
 | 07-10-2021  |setup db|-|typo codingan dan setup url|-|
 | 08-10-2021  |buat login dan register|-|-|
 | 09-10-2021  |buat login dan register dengan jwt|-|error|
+| 18-10-2021 - 20-10-2021 |buat login dan register dengan jwt|-|error|
