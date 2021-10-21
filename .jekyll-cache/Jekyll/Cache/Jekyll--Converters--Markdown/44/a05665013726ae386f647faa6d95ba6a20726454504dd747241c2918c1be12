@@ -1,0 +1,8 @@
+I"�<p>| Date | Activity | Repository | Blocker | Solved | Link |
+| — | — | — | — | — | — |
+| 18-21 Oktober 2021 | Membuat login dan register jwt|Belum di up karena masih error | Untuk setup jwt masih mengalami kendala. Sudah mengikuti di berbagai tutorial youtube dan searching di google. Sudah mengikuti 1 channel, tapi mengalami kendala dipertengahan pada saat membuat migration. Sudah mencari errornya di stackoverflow, github, dll tapi masih error juga. Kemudian pindah mencoba di windows, masih sempat bingung dengan setup dan command linenya dan mengalami beberapa error di setup dan install django dan environment. Kemudian mengikuti tutorial yang sebelumnya, ternyata mengalami error yang sama juga seperti di linux, akhirnya ganti source code di tutorial website. Mengalami kendala lagi pada setup di app dan modelnya, sudah searching error, tapi hasilnya masih sama dan belum berjalan. Karena sudah mencari dan mencoba tutorial yang lain, akhirnya saya coba project salah satu channel youtube dan juga error pada saat dilakukan migrasi.
+ | Masih error |</p>
+<ol>
+  <li><a href="https://www.youtube.com/watch?v=2gBwkzo5xoY&amp;list=PLx-q4INfd95FWHy9M3Gt6NkUGR2R2yqT8&amp;index=2">https://www.youtube.com/watch?v=2gBwkzo5xoY&amp;list=PLx-q4INfd95FWHy9M3Gt6NkUGR2R2yqT8&amp;index=2</a><a href="https://www.codingforentrepreneurs.com/blog/how-to-create-a-custom-django-user-model/">https://www.codingforentrepreneurs.com/blog/how-to-create-a-custom-django-user-model/</a></li>
+</ol>
+:ET
