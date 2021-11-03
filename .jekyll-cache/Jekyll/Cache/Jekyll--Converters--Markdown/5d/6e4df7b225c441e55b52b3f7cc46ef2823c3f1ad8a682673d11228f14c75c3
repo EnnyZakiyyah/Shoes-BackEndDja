@@ -1,4 +1,4 @@
-I"Å	<table>
+I"§<table>
   <thead>
     <tr>
       <th>Date</th>
@@ -25,6 +25,22 @@
       <td>Â </td>
       <td>Â </td>
       <td>Â </td>
+    </tr>
+    <tr>
+      <td>22 Oktober 2021</td>
+      <td>install go, belajar go</td>
+      <td>-</td>
+      <td>error di main</td>
+      <td>kesalahan dalam membuat main</td>
+      <td>https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install</td>
+    </tr>
+    <tr>
+      <td>02 November 2021</td>
+      <td>install dep, install echo</td>
+      <td>-</td>
+      <td>error install echo</td>
+      <td>karena sebelumnya sudah install dep, untuk install echo menggunakan dep ensure sempat mengalami error, main yang belum dibuat, gopkg lock dan toml belum di buat juga di run juga masih error, kemudian install go init, go mod, go get dan di run masih error, dan coba install go tidy dan go vendor</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
