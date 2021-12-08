@@ -1,4 +1,4 @@
-I"�<table>
+I"<table>
   <thead>
     <tr>
       <th>Date</th>
@@ -41,6 +41,110 @@
       <td>error install echo karena sebelumnya sudah install dep, untuk install echo menggunakan dep ensure sempat mengalami error, main yang belum dibuat, gopkg lock dan toml belum di buat juga di run juga masih error, kemudian install go init, go mod, go get dan di run masih error, dan coba install go tidy dan go vendor</td>
       <td>install go mod, go get, go tidy, go vendor</td>
       <td>https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src</td>
+    </tr>
+    <tr>
+      <td>22-10–2021</td>
+      <td>Install golang</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>03-11-2021</td>
+      <td>Install dep, echo</td>
+      <td>-</td>
+      <td>error</td>
+      <td>solved</td>
+      <td>https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>08-11-2021</td>
+      <td>Repair postgres, belajar golang</td>
+      <td>-</td>
+      <td>error</td>
+      <td>-</td>
+      <td>Install ulang postgres</td>
+    </tr>
+    <tr>
+      <td>09-11-2021</td>
+      <td>Repair postgrest, belajar golang</td>
+      <td>-</td>
+      <td>error</td>
+      <td>Solved dengan uninstall terlebih dahulu, sinkron password postgres dan pgadmin4</td>
+      <td>https://www.codegrepper.com/code-examples/shell/uninstall+postgresql++and+pgadmin+ubuntu#</td>
+    </tr>
+    <tr>
+      <td>15-11-2021-16-11-2021</td>
+      <td>Belajar golang, sinkrong punya elang dengan postgres</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>solved</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>22-11-2021-23-11-2021</td>
+      <td>Nampilin data</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>Masih error, bikin sendiri beda repo dengan elang (berhasil)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>29-11-2021-30-11-2021</td>
+      <td>Nampilin data</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>Dibagian connection, entity masih error, masih bingung buat merge punya elang</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>06-12-2021-07-12-2021</td>
+      <td>Benerin error di repository</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>solved</td>
+      <td>Kurang install package</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
   </tbody>
 </table>

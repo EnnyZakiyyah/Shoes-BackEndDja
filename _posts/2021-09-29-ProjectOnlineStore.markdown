@@ -17,3 +17,18 @@ categories: jekyll update
 | 08-10-2021  |buat login dan register|-|-|
 | 09-10-2021  |buat login dan register dengan jwt|-|error|
 | 18-10-2021 - 20-10-2021 |login dan register dengan jwt|-|error|
+| 22 Oktober 2021 | install go, belajar go | - | error di main | kesalahan dalam membuat main | https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install |
+| 02 November 2021 | install dep, install echo | - | error install echo karena sebelumnya sudah install dep, untuk install echo menggunakan dep ensure sempat mengalami error, main yang belum dibuat, gopkg lock dan toml belum di buat juga di run juga masih error, kemudian install go init, go mod, go get dan di run masih error, dan coba install go tidy dan go vendor| install go mod, go get, go tidy, go vendor | https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src |
+| 22-10–2021 | Install golang | - | - | - | https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install
+ |
+| 03-11-2021 | Install dep, echo | - | error | solved | https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src
+ |
+| 08-11-2021 | Repair postgres, belajar golang | - | error | - | Install ulang postgres |
+| 09-11-2021 | Repair postgrest, belajar golang | - | error | Solved dengan uninstall terlebih dahulu, sinkron password postgres dan pgadmin4 | https://www.codegrepper.com/code-examples/shell/uninstall+postgresql++and+pgadmin+ubuntu# |
+| 15-11-2021-16-11-2021 | Belajar golang, sinkrong punya elang dengan postgres | https://github.com/elangmfikri123/rest-api | error | solved | - |
+| 22-11-2021-23-11-2021 | Nampilin data | https://github.com/elangmfikri123/rest-api | error | Masih error, bikin sendiri beda repo dengan elang (berhasil) |
+ |
+| 29-11-2021-30-11-2021 | Nampilin data | https://github.com/elangmfikri123/rest-api | error | Dibagian connection, entity masih error, masih bingung buat merge punya elang |
+ |
+| 06-12-2021-07-12-2021 | Benerin error di repository | https://github.com/elangmfikri123/rest-api | solved | Kurang install package |
+ |
