@@ -1,0 +1,206 @@
+I"<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td>Activitiy</td>
+      <td>Repositry</td>
+      <td>Blocker</td>
+      <td>Solve</td>
+      <td>Link</td>
+    </tr>
+    <tr>
+      <td>25-09-2021</td>
+      <td>rest api login dan register</td>
+      <td>https://github.com/EnnyZakiyyah/ Project-Week-01</td>
+      <td>setup django di linux</td>
+      <td>cari diberbagai tutorial</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>28-09-2021</td>
+      <td>rest api login dan register jwt</td>
+      <td>-</td>
+      <td>connect mysql masih error, belum nemu refrensi</td>
+      <td>belum selesai</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>setup github di linux</td>
+      <td>-</td>
+      <td>sempet error, tidak bisa ngepush project ke github</td>
+      <td>set new token</td>
+      <td>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>setup mysql</td>
+      <td>-</td>
+      <td>tidak bisa connect database mysql</td>
+      <td>cari diberbagai tutorial belum ketemu, dan disarankan install postgrest</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>29-09-2021</td>
+      <td>install postgrest</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>https://www.postgresql.org/download/linux/ubuntu/</td>
+    </tr>
+    <tr>
+      <td>04-10-2021</td>
+      <td>install pgadmin4</td>
+      <td>-</td>
+      <td>Error tidak bisa install pgadmin4</td>
+      <td>dengan hapus repository pgadmin dan postgrest, reinstall postgrest dan benahi error</td>
+      <td>(1)https://askubuntu.com/questions/741410/skipping-acquire-of-configured-file-main-binary-i386-packages-as-repository-x (2)https://askubuntu.com/questions/1230350/cant-install-pgadmin-4-on-20-04-lts (3)https://www.youtube.com/watch?v=ET2fXRExxco</td>
+    </tr>
+    <tr>
+      <td>05-10-2021</td>
+      <td>setup db</td>
+      <td>-</td>
+      <td>Error tidak bisa connect dengan pgadmin4</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>07-10-2021</td>
+      <td>setup db</td>
+      <td>-</td>
+      <td>typo codingan dan setup url</td>
+      <td>-</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>08-10-2021</td>
+      <td>buat login dan register</td>
+      <td>-</td>
+      <td>-</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>09-10-2021</td>
+      <td>buat login dan register dengan jwt</td>
+      <td>-</td>
+      <td>error</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18-10-2021 - 20-10-2021</td>
+      <td>login dan register dengan jwt</td>
+      <td>-</td>
+      <td>error</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>22 Oktober 2021</td>
+      <td>install go, belajar go</td>
+      <td>-</td>
+      <td>error di main</td>
+      <td>kesalahan dalam membuat main</td>
+      <td>https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install</td>
+    </tr>
+    <tr>
+      <td>02 November 2021</td>
+      <td>install dep, install echo</td>
+      <td>-</td>
+      <td>error install echo karena sebelumnya sudah install dep, untuk install echo menggunakan dep ensure sempat mengalami error, main yang belum dibuat, gopkg lock dan toml belum di buat juga di run juga masih error, kemudian install go init, go mod, go get dan di run masih error, dan coba install go tidy dan go vendor</td>
+      <td>install go mod, go get, go tidy, go vendor</td>
+      <td>https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src</td>
+    </tr>
+    <tr>
+      <td>22-10–2021</td>
+      <td>Install golang</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>https://www.youtube.com/watch?v=4zVJBltNwD0 https://golang.org/doc/install</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>03-11-2021</td>
+      <td>Install dep, echo</td>
+      <td>-</td>
+      <td>error</td>
+      <td>solved</td>
+      <td>https://stackoverflow.com/questions/62603428/cant-seem-to-get-started-with-go-and-echo https://stackoverflow.com/questions/58511588/fixing-go-inconsistent-vendoring-in-c-go-src</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>08-11-2021</td>
+      <td>Repair postgres, belajar golang</td>
+      <td>-</td>
+      <td>error</td>
+      <td>-</td>
+      <td>Install ulang postgres</td>
+    </tr>
+    <tr>
+      <td>09-11-2021</td>
+      <td>Repair postgrest, belajar golang</td>
+      <td>-</td>
+      <td>error</td>
+      <td>Solved dengan uninstall terlebih dahulu, sinkron password postgres dan pgadmin4</td>
+      <td>https://www.codegrepper.com/code-examples/shell/uninstall+postgresql++and+pgadmin+ubuntu#</td>
+    </tr>
+    <tr>
+      <td>15-11-2021-16-11-2021</td>
+      <td>Belajar golang, sinkrong punya elang dengan postgres</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>solved</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>22-11-2021-23-11-2021</td>
+      <td>Nampilin data</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>Masih error, bikin sendiri beda repo dengan elang (berhasil)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>29-11-2021-30-11-2021</td>
+      <td>Nampilin data</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>error</td>
+      <td>Dibagian connection, entity masih error, masih bingung buat merge punya elang</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>06-12-2021-07-12-2021</td>
+      <td>Benerin error di repository</td>
+      <td>https://github.com/elangmfikri123/rest-api</td>
+      <td>solved</td>
+      <td>Kurang install package</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
